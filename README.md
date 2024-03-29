@@ -1,6 +1,6 @@
 **YouTube Data Harvesting and Warehousing using SQL and Streamlit**
 
-YouTube Data Harvesting and Warehousing is a project that intends to provide users with the ability to access and analyse data from numerous YouTube channels. 
+YouTube Data Harvesting and Warehousing is a project that intends to provide users with the ability to access and analyze data from numerous YouTube channels. 
 SQL and Streamlit are used in the project to develop a user-friendly application that allows users to retrieve, save, and query YouTube channels and video data.
 
 **Project Overview**
